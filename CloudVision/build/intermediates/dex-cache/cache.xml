@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.1.3_c4b08335608a78ca85ef15428085f84250db4a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.20.0\9204765f39000f6109c927ac66c7963bf9c7df19\google-http-client-gson-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9204765f39000f6109c927ac66c7963bf9c7df19">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-gson-1.20.0_db205d09e2c51c63ffdf7555969984038b2c2515\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\77767f47d3d98888edba5e4284d5acb7aa5b7b8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ecb2e3220b6b1e35a2cbc485075523d6ac5399b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\0e6654228808b37578e576ae35cd16d8a2ae729e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c24b5d3f92b85250095382cc7c3bfa00f6be2fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\f38dca15a6db85d5195d9bf6898b71caf9c77c06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e669b497af7fce5eb9ac6e7188a620882067a88d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\ea9e32b429339c763a482dfd9fd1599a25d9ba8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d4d35dfb0091325530c4c6616919f7a53876043\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.21.0\16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc\google-api-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16a6b3c680f3bf7b81bb42790ff5c1b72c5bbedc">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.21.0_0881b3ed8bcd986db378859d94bb2adf96a7f68a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.21.0\61ec42bbfc51aafde5eb8b4923c602c5b5965bc2\google-oauth-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61ec42bbfc51aafde5eb8b4923c602c5b5965bc2">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.21.0_2189841e251a3e5a3dc16be4d480f3b83c2ae162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\ecbd6bd2463b0dd79a99d4e8f604cedd8bbd82b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d935091d6a0e307a6b38d71f8be5ab7139d92ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\5e8dd9e887fad2911da5aa4d7c252919fcc9fcc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9262701fccf86bf0035e6897fa0ed5679aa6dd02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_daa618445421ec56aa5e509186004ba6bf2ecbac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.apis\google-api-services-vision\v1-rev2-1.21.0\4db84d916e8ec80d9aa11c5f89a6cb6621ac1c85\google-api-services-vision-v1-rev2-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4db84d916e8ec80d9aa11c5f89a6cb6621ac1c85">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-services-vision-v1-rev2-1.21.0_3ca871dda7bb3c81dd8f3716e64df62be26a06b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.20.0\313dc99a7963523871495897ca11aa8472b3c6fd\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.20.0_cc2a5ee9c0637885dc5a4a5abb6e8d24c05f5915\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\4a5fd8ecbf1b591659e8f7d8a931bd70960b9e11\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4df41dcd439691f77b5afd46e4ec876e7e05c83e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1f1c20c5d2b9068ea7e85e99c468247efe90ef12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\7020792cad3a09f9f42d80e78660aae54d85b040\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3fbb899fc1acc69608412ef65872e1eb8cba4bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.20.0\5673179575c32b69a474334255c3044adf18d40\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.20.0_086f39a7f1e72a92939109f2bc51e20f512be739\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\f2fbde2a73642667e5cd0f3b30c412724fdbc649\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_259e61a1482d2ca2d24e5a6fcd47eaf0ff71a7da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.1_d4854d5b0d7a44eab7b93c3bc716b24576ba337d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\77ad60ee9b353c68f8e51e24b8a0374f2fd23ab1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25b4bb2cf03dd51141cc62819c2f34aeaee8f4bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_5b929365b611b2dc67dc33f774d1c1a83aa730aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.21.0\42631630fe1276d4d6d6397bb07d53a4e4fec278\google-http-client-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42631630fe1276d4d6d6397bb07d53a4e4fec278">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.21.0_f8151c8945a303feb6a5fab14fdfba793b0c1905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfc6a0166915d49f9121c2f5b0de740d0269c65e">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_918e617457ede8eef547e63814658ab06166337f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\fd3f787e7f8d357556e0ab6f124a38367abf7a62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_717fe8263b63c7abc4ecf3b330d055866ade7835\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_d8a156d5579caf60a797b29f55d514220ea306b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.android\build-cache\b56c85882277afe297ee0e8bb6176cb9ff577d10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c7ab5f102c2c02fd886c3406abbba1122b79d93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\salvador.ruiz\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.21.0\8ce17bdd15fff0fd8cf359757f29e778fc7191ad\google-http-client-jackson2-1.21.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ce17bdd15fff0fd8cf359757f29e778fc7191ad">
+        <dex dex="C:\Users\salvador.ruiz\Desktop\Santander\cloud-vision-master\android\CloudVision\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.21.0_5f1520baa15e57fc7b223145887f1df5669a82a5\classes.dex" />
+    </item>
+
+</items>
